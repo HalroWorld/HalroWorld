@@ -1,10 +1,8 @@
 <div align="center">
 
-<img align="right" src="https://streak-stats.demolab.com/?user=HalroWorld">
-
 ### HalroWorld 🐣
- ---  
- <a href="https://github.com/HalroWorld"><img src="https://komarev.com/ghpvc/?username=HalroWorld&color=000000&style=flat-square&label=GitHub"/></a>
+ ---
+<a href="https://github.com/HalroWorld"><img src="https://komarev.com/ghpvc/?username=HalroWorld&color=000000&style=flat-square&label=GitHub"/></a>
 <a href="https://www.modakbool.kr"><img src="https://img.shields.io/badge/modakbool.kr-E5511E?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 <br><br>
@@ -25,10 +23,11 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-<br>
-<br>
-<br>
-<br>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=HalroWorld">
+
 </div>
 
  
