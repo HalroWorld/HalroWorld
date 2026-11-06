@@ -5,8 +5,6 @@
 <a href="https://github.com/HalroWorld"><img src="https://komarev.com/ghpvc/?username=HalroWorld&color=000000&style=flat-square&label=GitHub"/></a>
 <a href="https://www.modakbool.kr"><img src="https://img.shields.io/badge/modakbool.kr-E5511E?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
-<br><br>
-
 **Tech Stack**<br>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -23,8 +21,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
-
-<br><br>
 
 <img src="https://streak-stats.demolab.com/?user=HalroWorld">
 
