@@ -1,11 +1,11 @@
 <div align="center">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=HalroWorld&show_icons=true">
+<img align="right" src="https://streak-stats.demolab.com/?user=HalroWorld">
 
 ### HalroWorld 🐣
  ---  
- <a href="https://github.com/HalroWorld"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHalroWorldcount_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
-<a href="https://halro.tistory.com"><img src="https://img.shields.io/badge/halro-E5511E?style=flat-square&logo=Tistory&logoColor=white"/></a>
+ <a href="https://github.com/HalroWorld"><img src="https://komarev.com/ghpvc/?username=HalroWorld&color=000000&style=flat-square&label=GitHub"/></a>
+<a href="https://www.modakbool.kr"><img src="https://img.shields.io/badge/modakbool.kr-E5511E?style=flat-square&logo=Tistory&logoColor=white"/></a>
 <br>
 <br>
 <br>
